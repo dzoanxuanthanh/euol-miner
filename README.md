@@ -30,5 +30,6 @@ The output plots will be saved in the /figures directory.
 As shown in the figure below, MinerDual significantly outperforms the baseline algorithms in terms of runtime:
 ![Runtime Comparison](figures/fig2.png)
 ![Runtime Comparison](figures/fig7a_moi.png)
+![Runtime Comparison](figures/fig7b_moi.png)
 ![Runtime Comparison](figures/fig8.png)
 
