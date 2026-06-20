@@ -25,3 +25,8 @@ python src/MinerDual.py --input data/T10I4D200K.csv --gamma 0.05 --delta 0.25
 To regenerate the comparison plots for execution time and memory usage (Figure 8 in the paper), run:
 python plot_scripts/8.py
 The output plots will be saved in the /figures directory.
+
+5. Experimental Results
+As shown in the figure below, MinerDual significantly outperforms the baseline algorithms in terms of runtime:
+
+![Runtime Comparison](figures/fig2.pdf)
